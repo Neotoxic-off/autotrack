@@ -1,0 +1,8 @@
+{
+    "flux": "https://raw.githubusercontent.com/ngosang/trackerslist/refs/heads/master/trackers_all.txt",
+    "qbittorrent": {
+        "config": "./test/config.conf",
+        "section": "BitTorrent",
+        "section_key": "Session\\AdditionalTrackers"
+    }
+}
